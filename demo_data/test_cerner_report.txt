@@ -1,0 +1,28 @@
+  Date: 02/06/25 14:17:58                    Microbiology Condensed Line Listing Report                     Id: TAPPERD             
+  Sequence: Antibiogram HUP Out - Blood                                                                     Page:   1               
+                                                                                                                                    
+  Filter:                                                             Sort(s):                                                      
+  1: Date/Time - Procedure Started - 02/03/25 00:00  -  02/06/25 23:59                                                              
+  2: Orderable Procedure - C CDT, C CDTSCN                                                                                          
+  3: Positive Indicator - Negative:                                                                                                 
+  4: Service Resource - HUP Lab                                                                                                     
+ ================================================================================================================================== 
+ Name:                    MRN:                  Receive Date:  Procedure:  Accession:             Source:     Final Isolate:        
+----------------------------------------------------------------------------------------------------------------------------------  
+ Simpson, Homer           380783223 HUP         02/03/25 03:24 C CDT       25-033-04592           Stool       CDT N MA              
+                                                                                                                                    
+ Simpson, Marge           532756688 HUP         02/03/25 03:24 C CDT       25-033-32918           Stool       CDT N MA              
+                                                                                                                                    
+ Simpson, Bart            822631747 HUP         02/03/25 03:24 C CDT       25-033-53603           Stool       CDT N MA              
+                                                                                                                                          
+                                                                                                                                    
+                                                                                                                                   
+  Date: 02/06/25 14:17:58                    Microbiology Condensed Line Listing Report                     Id: TAPPERD             
+  Sequence: Antibiogram HUP Out - Blood                                                                     Page:   2               
+       
+    
+                                                                                                                                    
+ ================================================================================================================================== 
+  Total accession selected:           3                                                                                            
+                                                                                                                                    
+                                            ********** END OF REPORT **********                                                     
